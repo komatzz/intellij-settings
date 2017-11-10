@@ -1,0 +1,39 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.5 (~/pyenv/versions/2.7.5/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.5" />
+      <homePath value="$USER_HOME$/pyenv/versions/2.7.5/bin/python2.7" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/pyenv/versions/2.7.5/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/pyenv/versions/2.7.5/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/pyenv/versions/2.7.5/lib/python2.7/plat-mac" />
+            <root type="simple" url="file://$USER_HOME$/pyenv/versions/2.7.5/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/pyenv/versions/2.7.5/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/pyenv/versions/2.7.5/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/pyenv/versions/2.7.5/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-770369509" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
